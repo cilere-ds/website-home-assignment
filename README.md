@@ -10,6 +10,7 @@ The goal of the developer exercise is to take a quick dive into a Reactjs to bui
 1. Show current city's current weather and future weather based on IP.
 2. User could login and store their watch list.
 3. User could share one city's weather to others by email.
+4. Reponsive for website, ipad and phone.
 
 
 ## Backend (Choose your favorite language)
@@ -19,4 +20,4 @@ The goal of the developer exercise is to take a quick dive into a Reactjs to bui
 4. fetch weather from another source and store the weather data to redis. The data should be expired after 1 hour. If one city's weather is cached, no need to fetch weather from weather source again.
 
 ---
-Bonus: GraphQL
+Bonus: GraphQL, PWA
